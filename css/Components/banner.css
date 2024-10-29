@@ -1,0 +1,18 @@
+.banner{
+	background-image: url(../../Images/closet.jpg);
+	color: white;
+	padding: 100px 0px ;
+	background-size: cover;
+	background-position: center;
+	text-align: center ;
+}
+
+.banner h1 {
+	font-size: 70px;
+}
+
+.banner h2 {
+	font-size: 35px;
+	font-weight: lighter;
+	margin-bottom: 50px;
+}

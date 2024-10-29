@@ -1,0 +1,13 @@
+.btn-red{
+	background-color: rgba(128, 25, 18, 1.0);
+	color: white;
+	padding: 10px ;
+	border-radius: 5px;
+	font-size: 20px;
+	font-family:"Lora", serif;
+}
+
+.btn-red:hover {
+	background-color: rgba(255, 220, 184, 1.0);
+	color: white;
+}
